@@ -1,2 +1,0 @@
-# 🗃 Scicon Brands Icon Pack
-
