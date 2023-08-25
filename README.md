@@ -1,6 +1,5 @@
 ---
 description: Meet Scicon Icon Packs and Learn How You Can Use It
-layout: landing
 ---
 
 # 👋 Introduction
