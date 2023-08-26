@@ -30,6 +30,10 @@ We care about developers' suggestions. We carefully review your new icon suggest
 The Scicon Icon Pack is developed with the contributions of the developers. You can contribute to the icon pack in various fields.
 {% endhint %}
 
+{% hint style="success" %}
+The Scicon Icon Pack is divided into categories. In this way, you can only use the icons in the category you want and gain speed and storage in your projects.
+{% endhint %}
+
 The Scicon Icon Pack offers much more than that. These are mentioned at various places in the document.
 
 ## Contributing to the Project
