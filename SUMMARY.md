@@ -5,7 +5,7 @@
 ## Installation and Usage
 
 * [🛠 Installation with CDN](CHANGELOG.md/installation-and-usage/cdn.md)
-* [⚒ Installation with npm](CHANGELOG.md/installation-and-usage/npm.md)
+* [🛠 Installation with npm](CHANGELOG.md/installation-and-usage/npm.md)
 
 ## Contribution
 
